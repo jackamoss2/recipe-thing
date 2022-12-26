@@ -1,0 +1,11 @@
+# Features
+- User system
+- List of recipes
+- Options for recipes:
+  - Images (image to text plugin?)
+  - Notepad
+  - Websites
+    - Similar to chrome extension
+    - Allow user to add notes
+    - What happens if a recipe is removed? Lagality of saving a copy of recipe?
+- Allow users to share recipes/add to personal book
