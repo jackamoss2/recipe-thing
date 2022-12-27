@@ -6,6 +6,7 @@
   - Notepad
   - Websites
     - Similar to chrome extension
+      https://github.com/sean-public/RecipeFilter
     - Allow user to add notes
     - What happens if a recipe is removed? Lagality of saving a copy of recipe?
 - Allow users to share recipes/add to personal book
