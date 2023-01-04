@@ -4,7 +4,7 @@
 - Options for recipes:
   - Images (image to text plugin?)
   - Notepad
-  - Websites
+  - Websites (start with just URL new tab, no filter)
     - Similar to chrome extension
       https://github.com/sean-public/RecipeFilter
     - Allow user to add notes
@@ -18,3 +18,4 @@
 - Basic AI to kinda-sorta copy/modify recipes enough to avoid copyright/violation of use
 - Export shopping list
 - Nutritional info
+- Record aspects of each recipe; chicken? vegan? dill?; allow users to find recipes
